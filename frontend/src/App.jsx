@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { BrowserRouter, Routes, Route, useNavigate } from "react-router-dom"
 import Home from "./pages/Home/Home"
 import Login from "./pages/Login/Login"
-import Signup from "./pages/Signup/Signup"
+import Signup from "./pages/Signup/signup"
 import { ToastContainer } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
 
